@@ -17,4 +17,4 @@ INSERT INTO book (title, author, published_date, type) VALUES
 ('The Diary of Princess Pushy', 'Samantha Markle', '2019', 'https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1609694005i/56531196.jpg','Non-Fiction', 'show'),
 ('The Art of War', 'Sun Tzu', '5th Century BC', 'https://ebooks.gramedia.com/ebook-covers/34013/image_highres/ID_GPU2016MTH08TAOWMSTPASZ.jpg','Non-Fiction', 'show'),
 ('The Prince', 'Niccolò Machiavelli', '1532', 'https://m.media-amazon.com/images/I/61UegkaetIL._AC_UF1000,1000_QL80_.jpg','Non-Fiction', 'show'),
-('The Republic', 'Plato', '380 BC', 'http://img-host-by-dev.vercel.app/img/ayangKu/kbfwau2918hf2b3jk839fui2uf891_SIGMA{sql1_t00_3z}.jpg','Non-Fiction', 'hide'),
+('The Republic', 'Plato', '380 BC', 'http://img-host-by-dev.vercel.app/img/ayangKu/kbfwau2918hf2b3jk839fui2uf891_CODER25{sql1_t00_3z}.jpg','Non-Fiction', 'hide'),
